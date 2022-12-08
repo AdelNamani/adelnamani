@@ -1,8 +1,6 @@
 ### Hi there 👋
 I am Adel NAMANI, 23 years old, data scientist.
-- 🔭 I’m currently working as a data scientist on a Machine Learning solution for the pricing department of a big wholesale company.
 - 🌱 I’m currently working on expanding my knowledge in the deep learning field. 
-- 👯 I’m looking for a new opportunities as a data scientist in Europe starting from September.
 - 💬 Ask me about data analysis, machine learning, deep learning, always a pleasure to help people!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adel-namani/)
 
