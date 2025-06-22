@@ -1,10 +1,11 @@
 ### Hi there 👋
+<!--
 I am Adel NAMANI, 23 years old, data scientist.
 - 🌱 I’m currently working on expanding my knowledge in the deep learning field. 
 - 💬 Ask me about data analysis, machine learning, deep learning, always a pleasure to help people!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adel-namani/)
 
-<!--
+
 **AdelNamani/adelnamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
